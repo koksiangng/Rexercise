@@ -1,0 +1,45 @@
+1653724353602:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/Sigge/AppData/Local/Temp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "C:/Users/Sigge/AppData/Roaming/JetBrains/IdeaIC2022.1/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1654508801989:runMain SearchMain test
+1654509552964:runMain Main Hej
+1654510330186:runMain Main Potatis
+1654510394337:runMain Main lol
+1654510430970:runMain Main Hej
+1654511420727:runMain Main src\\main\\scala\\Files
+1654511516126:running Main src/main/scala/Files
+1654512440470:runMain Main src/main/scala/Files
+1654512758197:runMain Main scala
+1654512781435:runMain Main src/main/scala/Files
+1654512844860:Hej
+1654512918764:runMain Main src/main/scala/Files
+1654515898078:runMain Main src/
+1654517651275:runMain Main Hej
+1654517671650:runMain Main src/main/scala/Files
+1654522591671:Hej
+1654522635640:runMain Main src/main/scala/Files
+1654523687334:src/main/scala/Files
+1654523690949:runMain Main src/main/scala/Files
+1654608363825:Hej
+1654608365265:hej
+1654608366969:asd
+1654608419793:runMain Main lel
+1654608432785:Hej
+1654608437344:hej
+1654608491218:runMain Main src/main/scala/Files
+1654612200546:runMain Main lol
+1654612223178:runMain Main src/Main/habla
+1654612302330:runMain Main src/Main/
+1654612964601:runMain Main I like potatoes
+1655107539373:;set _root_.scala.collection.Seq(historyPath := None,shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("C:/Users/Sigge/AppData/Local/Temp/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers, resolveSbtClassifiers");apply -cp "C:/Users/Sigge/AppData/Roaming/JetBrains/IdeaIC2022.1/plugins/Scala/repo/org/jetbrains/scala/sbt-structure-extractor_2.12_1.0/2021.3.0/sbt-structure-extractor-2021.3.0.jar" org.jetbrains.sbt.CreateTasks;preferScala2;*/*:dumpStructure
+1655121586031:runMain Main src/main/scala/Files
+1655151350203:runMain Main hable
+1655152725911:runMain Main src/
+1655152761719:runMain Main hable
+1655152901039:runMain Main src/main/scala/Files
+1655200942369:runMain Main you
+1655201130369:runMain Main src/main/scala/Files
+1655201447171:runMain Main arr
+1655201465137:runMain Main src/main/scala/Files
+1655201756202:runMain Main harr
+1655201772465:runMain Main src/
+1655201797713:runMain Main src/target
+1655201809201:runMain Main target
